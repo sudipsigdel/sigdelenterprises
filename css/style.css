@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
+.ad {
+    padding: 50px 80px 40px 120px;
+}
+
 :root {
     --orange: #ff7800;
     --black: #130f40;
